@@ -3,3 +3,5 @@
 ![GitHub forks](https://img.shields.io/github/forks/felipebacelo/MyNetflixHistory?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/felipebacelo/MyNetflixHistory?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/felipebacelo/MyNetflixHistory?style=for-the-badge)
+
+# Análise de Histórico Netflix
