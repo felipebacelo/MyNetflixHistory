@@ -6,11 +6,11 @@ install.packages("lubridate")
 library(tidyverse)
 library(lubridate)
 
-# Carregando o arquivo ----------------------------------------------------
+# Carregando arquivo ----------------------------------------------------
 netflix <- read_csv("NetflixViewingHistory.csv")
 head(netflix)
 
-# Ajustando o formato da data ---------------------------------------------
+# Ajustando formato da data ---------------------------------------------
 parseia_data <- function(x) {
                               data <- dmy(x)
                               if(sum(is.na(data)) > 0) {
