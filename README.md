@@ -18,7 +18,7 @@
 <p>Os arquivos CSV são amplamente utilizados e poussuem características como, separados por quebras de linha, sendo que cada registro permanece numa única linha do arquivo e cada registro possui um ou mais campos, separados por um delimitador, os mais comuns sendo a vírgula <strong>","</strong> e o ponto e vírgula <strong>";"</strong>.</p>
 <p>Para realizar o download do arquivo CSV com os dados, basta seguir os seguintes passos:</p>
 
-* Realizar o login no site da Netflix, escolhendo o perfil para o qual deseja baixar os dados;
+* Realizar login no site da Netflix: https://www.netflix.com, escolhendo o perfil para o qual deseja baixar os dados;
 * Entrar na página: https://www.netflix.com/viewingactivity;
 * Clicar em <strong>Download all</strong>, ao final da página.
 
