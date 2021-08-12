@@ -72,6 +72,11 @@ Sempre ao assistir qualquer título, uma nova linha é gerada na base, independe
 <p align="center">
 <img src="https://github.com/felipebacelo/MyNetflixHistory/blob/main/IMAGES/PLOT-5.png"/></p>
 
+## Referências ##
+  
+* [Curso-R](https://curso-r.com/)
+* [R para Data Science](https://curso-r.com/)
+
 ## Licenças ##
 
 _MIT License_
