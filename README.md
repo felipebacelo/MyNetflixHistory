@@ -75,7 +75,7 @@ Sempre ao assistir qualquer título, uma nova linha é gerada na base, independe
 ## Referências ##
   
 * [Curso-R](https://curso-r.com/)
-* [R para Data Science](https://curso-r.com/)
+* [R para Data Science](https://r4ds.had.co.nz/)
 
 ## Licenças ##
 
